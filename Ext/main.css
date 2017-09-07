@@ -1,0 +1,15 @@
+ul {
+  list-style-type: none;
+}
+
+#name {
+  font-weight: bold;
+}
+
+#tagline {
+  font-style: italic;
+}
+
+#ingredients {
+  list-style-type: disc;
+}
